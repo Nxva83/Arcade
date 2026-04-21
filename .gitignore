@@ -1,0 +1,7 @@
+bootstrap/
+arcade
+lib/*.so
+src/core/*.o
+assets/scores.txt
+./build/*
+build
